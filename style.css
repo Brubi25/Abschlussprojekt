@@ -112,6 +112,14 @@ li{
 	padding-right: 5px;
 	border-radius: 10px;
 	border: solid 1px;
+	
+	transition: 0.2s;
+}
+
+li:hover{
+	cursor: pointer;
+	background: black;
+	color: white;
 }
 
 ol{
