@@ -104,7 +104,7 @@ h2{
 	
 }
 
-li{
+#sub li{
 	margin-bottom: 0.5em;
 	margin-top: 0.5em;
 	font-size: 20px;
@@ -120,7 +120,7 @@ li{
 	transition: 0.3s;
 }
 
-li:hover{
+#sub li:hover{
 	cursor: pointer;
 	background: black;
 	color: white;
