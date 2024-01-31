@@ -96,6 +96,7 @@ main{
 	padding-left: 3em;
 	border-left: solid 1px;
 	padding-right: 1vw;
+	
 }
 
 
@@ -105,19 +106,36 @@ h2{
 }
 
 #sub li{
+
 	margin-bottom: 0.5em;
 	margin-top: 0.5em;
-	font-size: 20px;
-	font-size: 1.2em;
 	
 	padding: 10px;
-	padding-left: 5px;
-	padding-right: 5px;
+	
 	border-radius: 5px;
 	border: solid 1px;
 	
 	text-align: center;
 	transition: 0.3s;
+	
+}
+
+#sub .list{
+	padding: 10px;
+	font-size: 1.2em;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#sub .listsmall{
+	
+	float: right;
+	width: 70%;
+	padding: 6px;
+	font-size: 0.8em;
+	padding-left: 3px;
+	padding-right: 3px;
+	
 }
 
 #sub li:hover{
