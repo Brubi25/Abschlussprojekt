@@ -283,6 +283,12 @@ h3
 #quellen{
 	background: white;
 	position: absolute;
-	bottom: 35vh;
+	bottom: 45vh;
+}
+
+#imp_img{
+	width: 100%;
+	height: 100vh;
+	object-fit: cover;
 	
 }
