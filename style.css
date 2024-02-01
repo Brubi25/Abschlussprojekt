@@ -2,6 +2,8 @@ body{
 	margin: 0;
 	font-family: 'Lato', sans-serif;
 	font-size: 20px;
+	
+	background: white;
 }
 
 .greater{
@@ -245,3 +247,35 @@ h3
 	margin-top: 3vh;
 }
 
+#impressum{
+	position: sticky;
+	top: 90vh;
+	margin-top: 70vh;
+	
+	float: right;
+	background: white;
+	width: 80%;
+
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+	
+	padding: 10px;
+	
+	border-radius: 5px;
+	border: solid 1px;
+	
+	text-align: center;
+	transition: 0.3s;
+	
+	padding: 10px;
+	font-size: 1.2em;
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+#impressum:hover{
+	cursor: pointer;
+	background: black;
+	color: white;
+}
