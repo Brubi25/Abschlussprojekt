@@ -180,4 +180,69 @@ p
 h3
 {
 	font-size: 1.3em;
-]}
+}
+
+.timeline{
+	display: flex;
+	background: black;
+	height: 100vh;
+	
+}
+
+.timeline_zone{
+
+	height: 100vh;
+	width: 100%;
+	
+	transition: 0.5s;
+	transition-delay: 0.2s;
+	
+	text-decoration: none;
+}
+
+.timeline_zone:hover{
+	height: 100vh;
+	width: 500%;
+}
+
+
+.timeline_zone div{
+	text-align: center;
+
+	position: relative;
+	bottom: 50vh;
+	color: white;
+
+}
+
+.timeline_zone img{
+	width: 100%;
+	height: 100vh;
+	object-fit: cover;
+	
+	opacity: 30%;
+	
+	transition: 0.5s;
+	transition-delay: 0.2s;
+}
+
+.timeline_zone img:hover{
+	opacity: 1;
+}
+
+.no_margin{
+	margin: 0px;
+	overflow: hidden;
+}
+
+.bigheader{
+	font-size: 3em;
+	position: absolute;
+	color: white;
+	
+	width: 100%;
+	text-align: center;
+	
+	margin-top: 3vh;
+}
+
