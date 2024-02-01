@@ -34,6 +34,7 @@ body{
 	white-space: nowrap;
 	overflow-x: auto;
 	overflow-y: hidden;
+	scrollbar-color: rgba(0,0,0,0.6);
 
 	height: 70px;
 	width: 100%;
