@@ -5,7 +5,7 @@ body{
 }
 
 .greater{
-	background: black;
+
 }
 
 
@@ -21,10 +21,15 @@ body{
 	bottom:33vh;
 	right: 2em;
 	
-	margin-bottom: 15vh;
+	padding: 10px;
+	
+	margin-bottom: 14vh;
 	margin-left: 50px;
 	
+	
+	border-radius: 15px;
 	color: white;
+	background: rgba(0,0,0,0.4);
 	font-size: 3em;
 }
 
