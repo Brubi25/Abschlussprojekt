@@ -33,6 +33,7 @@ body{
 	
 	white-space: nowrap;
 	overflow-x: auto;
+	overflow-y: hidden;
 
 	height: 70px;
 	width: 100%;
