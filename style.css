@@ -220,7 +220,7 @@ h3
 	
 	margin-left: auto;
 	margin-right: auto;
-	width: max(7vw, 50%);
+	width: max(5em, 50%);
 }
 
 .timeline_zone img{
