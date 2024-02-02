@@ -92,7 +92,13 @@ https://de.wikipedia.org/wiki/Geschichte_der_Videospiele_1970–1979
 
 Bildquellen:
 
-Anfang der VS:
+Banner Anfang der Vs:
+https://www.planet-wissen.de/technik/computer_und_roboter/geschichte_des_computers/computer-grossrechner-100~_v-gseapremiumxl.jpg
+https://images.igdb.com/igdb/image/upload/t_original/co3lld.webp
+https://upload.wikimedia.org/wikipedia/en/5/59/OXO_emulated_screenshot.png
+https://upload.wikimedia.org/wikipedia/commons/c/c0/Nimetron-picture.png
+
+Anfang der Vs:
 https://upload.wikimedia.org/wikipedia/commons/3/3a/EDSAC_%2810%29.jpg
 
 
@@ -110,6 +116,13 @@ https://upload.wikimedia.org/wikipedia/commons/6/60/TUROCHAMP_vs_Glennie%2C_1952
 https://upload.wikimedia.org/wikipedia/commons/0/02/Spacewar1.png
 https://upload.wikimedia.org/wikipedia/commons/d/d9/Spacewar_screenshot.jpg
 https://upload.wikimedia.org/wikipedia/en/9/95/TheSumerianGame_gameplay.png
+
+Banner 70er:
+https://upload.wikimedia.org/wikipedia/en/9/97/Star-Raiders-Box-Front.jpg
+https://dmdavid.com/wp-content/uploads/2015/07/basic_set.jpg
+https://www.atarimuseum.de/bilder/logos/pong-logo.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Asteroids_arcade_logo.svg/2560px-Asteroids_arcade_logo.svg.png
+
 
 
 70er
